@@ -8,6 +8,12 @@ I'm a web developper and
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lerouzicjulien&count_private=true&show_icons=true&theme=synthwave">
   </a>
 </p>
+<p align="center">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=lerouzicjulien&theme=react-dark">
+  </a>
+</p>
+
 
 <!--
 **lerouzicjulien/lerouzicjulien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
