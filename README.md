@@ -26,7 +26,7 @@ I'm open to work
 <br/>
 <p >
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="width:400px"  src="">
+    <img style="width:400px"  src="https://github-readme-stats.vercel.app/api?username=lerouzicjulien&count_private=true&show_icons=true&theme=radical">
     <img style="width:600px"  src="https://activity-graph.herokuapp.com/graph?username=lerouzicjulien&theme=react-dark">
   </a>  
 </p>
