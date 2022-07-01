@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I'm Julien LE ROUZIC 👋
 
+I'm a web developper and 
 <!--
 **lerouzicjulien/lerouzicjulien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
