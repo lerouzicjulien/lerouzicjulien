@@ -18,6 +18,8 @@ I'm open to work
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+ <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+ 
 </p>
 <br/>
 <br/>
