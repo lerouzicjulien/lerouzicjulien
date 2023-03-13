@@ -9,7 +9,7 @@ I'm a web developer
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
- <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+ <img style="width:45px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgdsc.community.dev%2Fevents%2Fdetails%2Fdeveloper-student-clubs-lebanese-university-faculty-of-engineering-branch-i-presents-what-is-nextjs%2F&psig=AOvVaw1ChFa_lWJfwJEN4rh7IYbh&ust=1678785729319000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNipi6zK2P0CFQAAAAAdAAAAABAD" />
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
  <img style="width:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
